@@ -1,0 +1,47 @@
+[
+  {
+    "linha":"SDT",
+    "desc":"12-20KW | Trifásico | 2 MPPTs",
+    "img": "https://br.goodwe.com/images/articulos/sdt/SDT-00.png" 
+  },
+  {
+    "linha":"LVSMT",
+    "desc":"12-20KW | Trifásico | 3 MPPTs",
+    "img": "https://br.goodwe.com/images/articulos/lvsmt/LVSMT-00.png" 
+  },
+  {
+    "linha":"LVDT",
+    "desc":"12-15KW | Trifásico | 2 MPPTs",
+    "img": "https://br.goodwe.com/images/articulos/lvdt/LVDT-00.png" 
+  },
+  {
+    "linha":"DT",
+    "desc":"17-25KW | Trifásico | 2 MPPTs",
+    "img": "https://br.goodwe.com/images/articulos/dt/dt-00.png" 
+  },
+  {
+    "linha":"SDT G2",
+    "desc":"17-25KW | Trifásico | 2 MPPTs",
+    "img": "https://br.goodwe.com/images/articulos/sdtg217kw/SDTG217KW-00.png" 
+  },
+  {
+    "linha":"SDT",
+    "desc":"25-36KW | Trifásico | 3 MPPTs",
+    "img": "https://br.goodwe.com/images/articulos/smt/smt-00.png" 
+  },
+  {
+    "linha":"SDT",
+    "desc":"30-50KW | Trifásico | 4 MPPTs",
+    "img": "https://br.goodwe.com/images/articulos/lvmt/LVMT-00.png" 
+  },
+  {
+    "linha":"MT",
+    "desc":"50-80KW | Trifásico | 4 MPPTs",
+    "img": "https://br.goodwe.com/images/articulos/mt/MT-00.png" 
+  },
+  {
+    "linha":"HT",
+    "desc":"100-136KW | Trifásico | 12 MPPTs",
+    "img": "https://br.goodwe.com/images/articulos/ht02/ht-00.png" 
+  }
+]
